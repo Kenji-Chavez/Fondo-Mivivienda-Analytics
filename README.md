@@ -64,3 +64,10 @@ Fondo-Mivivienda-Analytics/
 │   └── mivivienda.csv
 └── scripts/
     └── analisis_mivivienda.ipynb
+```
+
+## 👨‍💻 Autor
+
+**Kenji Chavez Tapia**
+
+Estudiante de Ingeniería de Sistemas e Informática, con interés en Análisis de Datos, Business Intelligence y desarrollo de soluciones utilizando Power BI, SQL y Python.
