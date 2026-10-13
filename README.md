@@ -1,4 +1,4 @@
-# 🏘️ Dashboard de Créditos Hipotecarios del Fondo Mivivienda en el Perú (2020–2024)
+# 🏘️ Análisis de Créditos Hipotecarios del Fondo Mivivienda en el Perú (2020–2024)
 
 ## 📌 Descripción
 
