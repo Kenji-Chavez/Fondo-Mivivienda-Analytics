@@ -54,16 +54,13 @@ El procesamiento de datos se encuentra automatizado mediante un script en Python
 
 ```text
 Fondo-Mivivienda-Analytics/
-├── .gitignore
 ├── README.md
 ├── assets/
-│   └── dashboard_mivivienda.png
+│   └── dashboard_fondo_mivivienda.jpeg
 ├── dashboard/
-│   └── mivivienda_analytics.pbix
+│   └── Dashboard Fondo Mivivienda.pbix
 ├── data/
-│   ├── processed/
-│   │   └── limpio_mivivienda.csv
-│   └── raw/
-│       └── mivivienda.csv
+│   ├── limpio_mivivienda.csv
+│   └── mivivienda.csv
 └── scripts/
-    └── etl_mivivienda.py
+    └── analisis_mivivienda.ipynb
