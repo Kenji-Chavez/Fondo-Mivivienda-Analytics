@@ -15,7 +15,7 @@ El objetivo es evaluar la evolución temporal, la concentración geográfica y l
 
 ## 📸 Dashboard
 
-![Dashboard del Fondo Mivivienda](assets/dashboard_mivivienda.jpg)
+![Dashboard del Fondo Mivivienda](assets/dashboard_fondo_mivivienda.jpeg)
 
 ## ⚙️ Proceso ETL y Tratamiento de Datos
 
