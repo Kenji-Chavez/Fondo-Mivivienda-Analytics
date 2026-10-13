@@ -15,7 +15,7 @@ El objetivo es evaluar la evolución temporal, la concentración geográfica y l
 
 ## 📸 Dashboard
 
-![Dashboard del Fondo Mivivienda](assets/dashboard_mivivienda.png)
+![Dashboard del Fondo Mivivienda](assets/dashboard_mivivienda.jpg)
 
 ## ⚙️ Proceso ETL y Tratamiento de Datos
 
@@ -47,7 +47,6 @@ El procesamiento de datos se encuentra automatizado mediante un script en Python
 - Utilizar la información del análisis para priorizar la oferta inmobiliaria de interés social en zonas con alta demanda comprobada, como Lima Norte (Comas).
 - Fortalecer las alianzas estratégicas entre el Fondo Mivivienda y las Cajas Municipales (CMAC) para aumentar la inclusión financiera y bancarización en provincias.
 - Monitorear la tendencia post-2022 para evaluar políticas de subsidio o tasas preferenciales que impulsen el volumen de colocación anual.
-- Integrar estos datos con indicadores socioeconómicos e inflacionarios para analizar el impacto del costo de materiales en el valor final de la vivienda.
 
 > **Nota:** Este proyecto analiza la dinámica histórica del mercado crediticio social en el Perú para servir como insumo en la toma de decisiones financieras, comerciales y de políticas públicas de vivienda.
 
